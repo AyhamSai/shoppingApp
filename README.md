@@ -17,4 +17,5 @@ A comprehensive e-commerce mobile application for a shoe store, built using Flut
 
 ## 📸 Screenshots
 <img width="412" height="865" alt="1" src="https://github.com/user-attachments/assets/a10da960-f9f8-4619-b736-9fd4dd3e9ebc" />
+<img width="402" height="859" alt="2" src="https://github.com/user-attachments/assets/65db5d33-5cf1-43e2-95cc-2c8466474a66" />
 
