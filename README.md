@@ -16,4 +16,5 @@ A comprehensive e-commerce mobile application for a shoe store, built using Flut
 * State Management: Provider
 
 ## 📸 Screenshots
-*(Add your app screenshots here to showcase your UI)*
+<img width="412" height="865" alt="1" src="https://github.com/user-attachments/assets/a10da960-f9f8-4619-b736-9fd4dd3e9ebc" />
+
