@@ -54,13 +54,13 @@ class _SupportPageState extends State<SupportPage> {
           ContactCard(
             title: lang.translate('واتساب', 'WhatsApp'),
             subtitle: '+218947722005',
-            icon: FontAwesomeIcons.whatsapp,
+            icon: IconData(FontAwesomeIcons.whatsapp.codePoint),
             onTap: () => launchWatsApp("218947722005"),
           ),
           ContactCard(
             title: lang.translate('فيسبوك', 'Facebook'),
             subtitle: lang.translate("صفحتنا الرسمية", "Our Official Page"),
-            icon: FontAwesomeIcons.facebook,
+            icon: IconData(FontAwesomeIcons.facebook.codePoint),
             onTap: () =>
                 launchFacebook("https://www.facebook.com/share/17mWpmLxrb/"),
           ),
